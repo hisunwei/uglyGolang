@@ -1,4 +1,8 @@
-a01 计算质数
+###### a01 计算质数
+
+测试环境 MAC Book Pro 
+- CPU: 2.2 GHz Intel Core i7
+- RAM: 16 GB 1600 MHz DDR3
 
 ##### 1千万以内,质数 664579个
 - 单并发：3.15s
